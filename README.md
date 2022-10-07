@@ -1,6 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!👋%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=thx%204%20visiting!&descAlignY=51&descAlign=62)
+
 ### 나는 정은쓰 스물넷인디 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=charzim)](https://solved.ac/charzim)
+
 </p>
 
 ### License

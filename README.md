@@ -10,3 +10,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=charzim)](https://solved.ac/charzim)
 </p>
+
+### License
+1. [Kdata] ADsP (2021.12.03)

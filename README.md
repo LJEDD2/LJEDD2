@@ -6,7 +6,7 @@
 ### License
 ADsP (2021.12.03)
 
-### Contact
+### About Me
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:charzim0611@glikelion.org)](mailto:charzim0611@glikelion.org)
 <a href="https://www.instagram.com/wydeoddl/">
     <img 

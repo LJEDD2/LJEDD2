@@ -1,4 +1,12 @@
 ### 나는 정은쓰 스물넷인디 👋
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=charzim)](https://solved.ac/charzim)
+</p>
+
+### License
+ADsP (2021.12.03)
+
+### Contact
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:charzim0611@glikelion.org)](mailto:charzim0611@glikelion.org)
 <a href="https://www.instagram.com/wydeoddl/">
     <img 
@@ -6,10 +14,3 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=https://https://salryujutme.tistory.com//)](https://https://salryujutme.tistory.com//)
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=charzim)](https://solved.ac/charzim)
-</p>
-
-### License
-ADsP (2021.12.03)

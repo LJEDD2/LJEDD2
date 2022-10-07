@@ -8,7 +8,6 @@
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=https://https://salryujutme.tistory.com//)](https://https://salryujutme.tistory.com//)
 
 
+</p>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=charzim)](https://solved.ac/charzim)
-
-
 </p>

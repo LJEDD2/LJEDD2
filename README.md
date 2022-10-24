@@ -43,8 +43,8 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"> 
 <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white">
 <br/>
-<br/>
-Gather
+
+
 
 </details>
 

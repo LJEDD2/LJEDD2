@@ -2,9 +2,9 @@
 
 # 나는 정은쓰, 스물넷인디 🤩
 
-❣️ **Python**  
-❣️ **Data Analysis**  
-❣️ **Machine Learning, Deep Learning**   
+❣️ Python**
+❣️ Data Analysis
+❣️ Machine Learning, Deep Learning  
 🦁 멋쟁이 사자처럼 AI스쿨 7기  
 <br/>
 
@@ -47,7 +47,7 @@
 
 
 </details>
-
+<br/>
 
 ## 📝 Study 
 
@@ -55,6 +55,7 @@
 🧷[Tech Blog Tistory](https://salryujutme.tistory.com/)   
 🧷[solved.ac](https://solved.ac/profile/charzim)   
 🧷Notion(DA&ML) 
+<br/>
 
 ## 🗃️ Stats
 [![ My GitHub stats 📈](https://github-readme-stats.vercel.app/api?username=LJEDD2)](https://github.com/LJEDD2/github-readme-stats)

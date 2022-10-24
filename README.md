@@ -2,10 +2,10 @@
 
 # 나는 정은쓰, 스물넷인디 🤩
 
-❣️ Python**
-❣️ Data Analysis
-❣️ Machine Learning, Deep Learning  
-🦁 멋쟁이 사자처럼 AI스쿨 7기  
+❣️ Python   
+❣️ Data Analysis   
+❣️ Machine Learning, Deep Learning   
+🦁 멋쟁이 사자처럼 AI스쿨 7기   
 <br/>
 
 
@@ -44,8 +44,6 @@
 <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white">
 <br/>
 
-
-
 </details>
 <br/>
 
@@ -54,7 +52,7 @@
 🧷[TIL Blog NAVER](https://blog.naver.com/charzim0611)   
 🧷[Tech Blog Tistory](https://salryujutme.tistory.com/)   
 🧷[solved.ac](https://solved.ac/profile/charzim)   
-🧷Notion(DA&ML) 
+🧷Notion(DA&ML)    
 <br/>
 
 ## 🗃️ Stats

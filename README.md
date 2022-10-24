@@ -1,5 +1,5 @@
 
 ### 나는 정은쓰 스물넷인디 👋
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=charzim&theme=warm)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=charzim)](https://solved.ac/charzim)
-</p>
+[![ My GitHub stats 📈](https://github-readme-stats.vercel.app/api?username=LJEDD2)](https://github.com/LJEDD2/github-readme-stats)

@@ -6,46 +6,6 @@
 ❣️ Data Analysis   
 ❣️ Machine Learning, Deep Learning   
 🦁 멋쟁이 사자처럼 AI스쿨 7기   
-<br/>
-
-
-## 📈 Skills
-<details>
-<summary> <h4> summary </h4> <i>(:point_left:)</i> </summary>
-
-#### Language
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=FFFFFF&"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=FFFFFF&"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=numpy&logoColor=FFFFFF&"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=FFFFFF&"/>  
-<img src="https://img.shields.io/badge/scikitlearn-7931E?style=plastic&logo=scikitlearn&logoColor=FFFFFF&"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=FFFFFF&"/>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
-
- 
-#### IDE
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"> 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"> 
-<img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white"> 
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"> 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=FFFFFF&"/>
-<img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white"> 
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"> 
-
-
-#### Collaboration Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> 
-<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"> 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"> 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"> 
-<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=Zoom&logoColor=white"> 
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"> 
-<img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white">
-<br/>
-
-</details>
-<br/>
 
 ## 📝 Study 
 

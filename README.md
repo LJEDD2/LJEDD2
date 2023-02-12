@@ -10,8 +10,6 @@
 ## 📝 Study 
 
 🧷[NAVER](https://blog.naver.com/charzim0611)   
-🧷[Tistory](https://salryujutme.tistory.com/)   
-🧷[solved.ac](https://solved.ac/profile/charzim)   
 🧷Notion(DA&ML)    
 <br/>
 

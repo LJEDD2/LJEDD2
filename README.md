@@ -9,7 +9,7 @@
 
 ## 📝 Study 
 
-🧷[NAVER](https://blog.naver.com/charzim0611)   
+🧷[NAVER TIL BLOG](https://blog.naver.com/charzim0611)   
 🧷Notion(DA&ML)    
 <br/>
 

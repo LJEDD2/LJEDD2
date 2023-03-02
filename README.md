@@ -6,7 +6,7 @@
 ❣️ Data Analysis   
 ❣️ Machine Learning, Deep Learning   
 🦁 LIKELION AIS7   
-🦁 LIKELION AIS8 Mentor
+🦁 LIKELION AIS8 Mentor      
 🦁 LIKELION BUFS
 
 ## 📝 Study 

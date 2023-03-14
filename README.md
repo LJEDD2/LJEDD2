@@ -7,7 +7,7 @@
 ❣️ Machine Learning, Deep Learning   
 🦁 LIKELION AIS7   
 🦁 LIKELION AIS8 Mentor      
-🦁 LIKELION univ. at BUFS
+<!-- 🦁 LIKELION univ. at BUFS -->
 
 ## 📝 Study 
 

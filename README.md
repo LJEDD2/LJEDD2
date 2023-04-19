@@ -7,7 +7,7 @@
 ❣️ Machine Learning, Deep Learning   
 🦁 LIKELION AIS7   
 🦁 LIKELION AIS8 Mentor      
-🦁 LIKELION univ. at BUFS 
+🦁 LIKELION univ11. at BUFS 
 
 ## 📝 Study 
 
@@ -26,4 +26,6 @@
     <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"></div>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLJEDD2&count_bg=%23E494FF&title_bg=%23514D4D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
+
+
 

@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
 # Hi, I'm Jeongeun Lee 😀 
-contact me : charzim0611@naver.com
 
 ### 🌱 I'm interested in 
 ❣️ Python, Data Analysis   

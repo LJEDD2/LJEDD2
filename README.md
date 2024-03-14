@@ -21,11 +21,12 @@
      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=pytorch&logoColor=white"/>
      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> -->
    </p>
-
-💻 Google Developer Student Clubs PKNU 4  
-🦁 LIKELION univ 11 Backend     
+   
+💻 Google Developer Student Clubs PKNU 2024 Core Member    
+💻 Google Developer Student Clubs PKNU 2023 Member    
+🦁 LIKELION univ 11 Backend       
 🦁 KDT LIKELION AIS8 Mentor    
-🦁 KDT LIKELION AIS7   
+🦁 KDT LIKELION AIS7 Student   
 
 ### 📝 Study 
 🧷[NAVER BLOG](https://blog.naver.com/charzim0611)   
